@@ -1,5 +1,5 @@
 # Fetch
-Fetch Rewards DevOPS Coding Challenge
+Deploying EC2 using Python and Yaml configuration
 -----------------------------------------------------
 <h4>Prerequisites:</h4>
 <ul>
